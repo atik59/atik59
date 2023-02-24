@@ -16,7 +16,7 @@ Skills:  HTML / CSS / JS / VUE JS / REACT / PHP / C / C++ / JAVA
 - 💬 Ask me about Full Stack Web Development and Programming Language 
 - 📫 How to reach me: Social media 
 - ⚡ Fun fact: Sleep all day. 
-- 👨‍💻 All of my projects are available at [https://atik59.github.io/BAIUST-Static-Page/](https://atik59.github.io/BAIUST-Static-Page/)
+- 👨‍💻 All of my projects are available at [https://atik59.github.io/BAIUST-Computer-Club-BCC-/)
 - 📫 How to reach me **atik.math77@mail.com**
 
 
