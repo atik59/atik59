@@ -1,7 +1,7 @@
 ![Full Stack Developer](https://scontent.fcla4-1.fna.fbcdn.net/v/t39.30808-6/295956129_530829315457179_939196959110387709_n.jpg?stp=dst-jpg_p640x640&_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=9BYyf9zm8HsAX8GUumz&_nc_ht=scontent.fcla4-1.fna&oh=00_AT8_DDwCAV2dP0ns1y_L0LdvnfLxbZ1wB0qXWFIwbeAwfg&oe=6330F4C2)
 
 
-<h1 align="center">Hi there 😊, I'm MD. ATIKUR RAHMAN</h1>
+<h1 align="center">Hi there 😊, I'm Yousuf Khandaker ATIK</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 
